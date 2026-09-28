@@ -21,9 +21,8 @@ Make sure Python is installed.
 Download or clone the project.
 
 Run it in your terminal:
-
-## Code
 python rock_paper_scissors.py
+
 ## Future ideas
 Add a scoreboard
 
